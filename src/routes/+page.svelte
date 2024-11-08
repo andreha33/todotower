@@ -2,7 +2,7 @@
   <h1 class="~text-5xl/6xl font-bold tracking-tighter leading-tight text-slate-900">Make Progress Enjoyable with TodoTower.</h1>
   <h2 class='text-lg text-slate-600 md:px-16 mx-auto'>
     Make productivity and work effortless with a gameified experience.
-    Embark on a journey to defend your kingdom from enemy factions.
+    Embark on a journey to defend your kingdom from enemy tasks.
     Beat up assignments in real time in an epic game of tower defense.
   </h2>
   <div class='inline-flex gap-4'>
