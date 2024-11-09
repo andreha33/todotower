@@ -19,4 +19,3 @@
 <footer class='~px-4/8 py-4'>
   © ESS Studios {new Date().getFullYear()}
 </footer>
-
